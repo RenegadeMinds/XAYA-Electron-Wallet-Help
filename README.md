@@ -2,66 +2,65 @@
 
 [README](README.md)
 
-[about](about.md)
+[About](about.md)
 
-[about xaya](about_xaya.md)
+[About XAYA](about_xaya.md)
 
-[back up wallets](back_up_wallets.md)
+[Back up wallets](back_up_wallets.md)
 
-[balance](balance.md)
+[Balance](balance.md)
 
-[block progression](block_progression.md)
+[Block progression](block_progression.md)
 
-[buy_chi](buy_chi.md)
+[Buy chi](buy_chi.md)
 
-[console](console.md)
+[Console](console.md)
 
-[create names](create_names.md)
+[Create names](create_names.md)
 
-[encrypt vault wallet](encrypt_vault_wallet.md)
+[Encrypt vault wallet](encrypt_vault_wallet.md)
 
-[exit](exit.md)
+[Exit](exit.md)
 
-[get a new wallet](get_a_new_wallet.md)
+[Get a new wallet](get_a_new_wallet.md)
 
-[get an account name](get_an_account_name.md)
+[Get an account name](get_an_account_name.md)
 
-[get games](get_games.md)
+[Get games](get_games.md)
 
-[get support](get_support.md)
+[Get support](get_support.md)
 
-[help](help.md)
+[Help](help.md)
 
-[how do i](how_do_i.md)
+[How do i](how_do_i.md)
 
-[introduction](introduction.md)
+[Introduction](introduction.md)
 
-[language](language.md)
+[Language](language.md)
 
-[mine chi](mine_chi.md)
+[Mine chi](mine_chi.md)
 
-[minimize](minimize.md)
+[Minimize](minimize.md)
 
-[my names](my_names.md)
+[My names](my_names.md)
 
-[network info](network_info.md)
+[Network info](network_info.md)
 
-[overview](overview.md)
+[Overview](overview.md)
 
-[readme](readme.md)
+[Receive](receive.md)
 
-[receive](receive.md)
+[Send](send.md)
 
-[send](send.md)
+[Settings](settings.md)
 
-[settings](settings.md)
+[The wallet ui](the_wallet_ui.md)
 
-[the wallet ui](the_wallet_ui.md)
+[Transactions](transactions.md)
 
-[transactions](transactions.md)
+[Transfer a name](transfer_a_name.md)
 
-[transfer a name](transfer_a_name.md)
+[Versions](versions.md)
 
-[versions](versions.md)
+[Wallets](wallets.md)
 
-[wallets](wallets.md)
