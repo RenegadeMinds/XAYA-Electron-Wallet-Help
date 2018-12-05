@@ -1,4 +1,4 @@
-Create Names
+# Create Names
 
 Creating names is one of the most important aspects of the wallet. Here you can 
 create names for accounts that you use for different games.
@@ -47,6 +47,6 @@ This is for reserving game names.
 
 You can check your game name on the [My Names screen](my_names.md).
 
-Choosing a Custom Namespace
+# Choosing a Custom Namespace
 
 Custom namespaces are reserved for further development.
