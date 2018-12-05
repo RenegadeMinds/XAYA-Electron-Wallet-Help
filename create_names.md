@@ -5,7 +5,7 @@ create names for accounts that you use for different games.
 
 ![create-names-screen](img/create-names-screen.zoom53.png)
 
-Choosing an Account Name
+## Choosing an Account Name
 
 To create a name for use as an account for games:
 
@@ -26,7 +26,7 @@ This is for reserving account names.
 
 You can check your acount name on the [My Names screen](my_names.md).
 
-Choosing a Game Name
+## Choosing a Game Name
 
 This is not the actual name of your game. XAYA uses "name" as jargon. Here, a 
 "game name" is more traditionally best described as a "game ID".
@@ -47,6 +47,6 @@ This is for reserving game names.
 
 You can check your game name on the [My Names screen](my_names.md).
 
-# Choosing a Custom Namespace
+## Choosing a Custom Namespace
 
 Custom namespaces are reserved for further development.
